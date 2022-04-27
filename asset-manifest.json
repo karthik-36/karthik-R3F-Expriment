@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/karthik-R3F-Expriment/static/css/main.736c07f5.css",
+    "main.js": "/karthik-R3F-Expriment/static/js/main.f0f296d5.js",
+    "static/js/787.d243985b.chunk.js": "/karthik-R3F-Expriment/static/js/787.d243985b.chunk.js",
+    "static/media/fire.mp4": "/karthik-R3F-Expriment/static/media/fire.c5a1ab769a610c2548ec.mp4",
+    "static/media/swing.mp4": "/karthik-R3F-Expriment/static/media/swing.c22710c2aef19582871d.mp4",
+    "static/media/beat.mp4": "/karthik-R3F-Expriment/static/media/beat.1a19f2e973b67a1f4968.mp4",
+    "static/media/bowl.mp4": "/karthik-R3F-Expriment/static/media/bowl.7e5c99f092218f52e289.mp4",
+    "static/media/right.png": "/karthik-R3F-Expriment/static/media/right.804e52f68dfccaa96805.png",
+    "static/media/left.png": "/karthik-R3F-Expriment/static/media/left.a8f936acf3ca429acd7f.png",
+    "index.html": "/karthik-R3F-Expriment/index.html",
+    "main.736c07f5.css.map": "/karthik-R3F-Expriment/static/css/main.736c07f5.css.map",
+    "main.f0f296d5.js.map": "/karthik-R3F-Expriment/static/js/main.f0f296d5.js.map",
+    "787.d243985b.chunk.js.map": "/karthik-R3F-Expriment/static/js/787.d243985b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.736c07f5.css",
+    "static/js/main.f0f296d5.js"
+  ]
+}
