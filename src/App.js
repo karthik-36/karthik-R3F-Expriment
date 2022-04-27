@@ -210,7 +210,7 @@ const App = () => {
 
 
 
-      <div class="modal">
+      <div className="modal">
         <img className="left" src={left} onClick={() => arrowClick("left")} />
         hi, try changing scenes by clicking on the left or right arrows.
         <img className="right" src={right} onClick={() => arrowClick("right")} />
