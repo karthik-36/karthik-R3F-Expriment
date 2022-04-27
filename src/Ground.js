@@ -7,8 +7,8 @@ export function Ground() {
 
 
     const [roughness , normal] = useLoader(TextureLoader , [
-        process.env.PUBLIC_URL + "textures/terrain-roughness.jpg",
-        process.env.PUBLIC_URL + "textures/terrain-normal.jpg"
+        process.env.PUBLIC_URL + "/textures/terrain-roughness.jpg",
+        process.env.PUBLIC_URL + "/textures/terrain-normal.jpg"
     ]);
 
 
