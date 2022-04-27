@@ -32,14 +32,6 @@ import right from "./images/right.png";
 
 const TV = (prp) => {
 
-  console.log(prp.video);
-  console.log(bowl);
-
-  //const { nodes1 } = useGLTF("tv.gltf");
-
-  console.log(prp.video);
-  console.log(bowl);
-
   const [video] = useState(() => {
     const vid = document.createElement("video");
     vid.src = prp.video;
